@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://cocktails.danielmentiplay.com/sitemap.xml

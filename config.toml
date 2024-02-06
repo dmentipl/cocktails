@@ -5,7 +5,7 @@ baseURL = "https://cocktails.danielmentiplay.com"
 # Basic metadata configuration for your blog.
 title = "Cocktails collected by Daniel Mentiplay"
 author = "Daniel Mentiplay"
-copyright = "Copyright © 2022, Daniel Mentiplay."
+copyright = "Copyright © 2022-2024, Daniel Mentiplay."
 languageCode = "en-US"
 
 # Generate a nice robots.txt for SEO

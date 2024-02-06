@@ -1,0 +1,22 @@
+{{ define "main" }}
+<content>
+  {{ if .Data.Singular }}
+  {{else}}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  <div>
+    <b>Explore by alcohol:</b>
+    {{ range .Site.Taxonomies.alcohol }}
+    <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
+    {{ end }}
+  </div>
+  <br>
+  <div>
+    <b>Explore by mixer:</b>
+    {{ range .Site.Taxonomies.mixers }}
+    <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
+    {{ end }}
+  </div>
+  {{ end }}
+</content>
+{{ end }}

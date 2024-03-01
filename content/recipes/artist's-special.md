@@ -1,9 +1,15 @@
 ---
 title: "Artist's special"
 created: 2021-07-18
-alcohol: ["Scotch", "sherry"]
-mixers: ["lemon juice", "grenadine"]
+modified:
+alcohol:
+  - Scotch
+  - sherry
+mixers:
+  - lemon juice
+  - grenadine
 ---
+
 
 ## Ingredients
 

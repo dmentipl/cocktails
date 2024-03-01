@@ -1,9 +1,14 @@
 ---
 title: "Margarita"
 created: 2021-07-18
-alcohol: ["tequila", "triple sec"]
-mixers: ["lime juice"]
+modified:
+alcohol:
+  - tequila
+  - triple sec
+mixers:
+  - lime juice
 ---
+
 
 ## Ingredients
 

@@ -1,9 +1,14 @@
 ---
 title: "Bloody Mary"
 created: 2021-10-07
-alcohol: ["vodka"]
-mixers: ["tomato juice", "lemon juice"]
+modified:
+alcohol:
+  - vodka
+mixers:
+  - tomato juice
+  - lemon juice
 ---
+
 
 ## Ingredients
 

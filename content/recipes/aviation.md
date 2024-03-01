@@ -1,9 +1,15 @@
 ---
 title: "Aviation"
 created: 2021-07-18
-alcohol: ["gin", "Maraschino liqueur"]
-mixers: ["lemon juice", "sugar syrup"]
+modified:
+alcohol:
+  - gin
+  - Maraschino liqueur
+mixers:
+  - lemon juice
+  - sugar syrup
 ---
+
 
 ## Ingredients
 

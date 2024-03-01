@@ -1,9 +1,16 @@
 ---
 title: "Brandy crusta"
 created: 2022-02-01
-alcohol: ["brandy", "triple sec", "Maraschino liqueur", "bitters"]
-mixers: ["lemon juice"]
+modified:
+alcohol:
+  - brandy
+  - triple sec
+  - Maraschino liqueur
+  - bitters
+mixers:
+  - lemon juice
 ---
+
 
 ## Ingredients
 

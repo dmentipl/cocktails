@@ -1,9 +1,15 @@
 ---
 title: "Blood and sand"
 created: 2021-10-07
-alcohol: ["Scotch", "sweet vermouth", "cherry liqueur"]
-mixers: ["orange juice"]
+modified:
+alcohol:
+  - Scotch
+  - sweet vermouth
+  - cherry liqueur
+mixers:
+  - orange juice
 ---
+
 
 ## Ingredients
 

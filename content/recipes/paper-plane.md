@@ -1,9 +1,15 @@
 ---
 title: "Paper plane"
 created: 2022-01-26
-alcohol: ["bourbon", "Aperol", "amaro"]
-mixers: ["lemon juice"]
+modified:
+alcohol:
+  - bourbon
+  - Aperol
+  - amaro
+mixers:
+  - lemon juice
 ---
+
 
 ## Ingredients
 

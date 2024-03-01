@@ -1,9 +1,14 @@
 ---
 title: "Martini"
 created: 2021-07-18
-alcohol: ["gin", "dry vermouth", "bitters"]
+modified:
+alcohol:
+  - gin
+  - dry vermouth
+  - bitters
 mixers:
 ---
+
 
 ## Ingredients
 

@@ -1,22 +1,21 @@
 ---
-title: "Negroni"
-created: 2021-06-19
+title: "Old pal"
+created: 2024-03-01
 modified:
 alcohol:
+  - rye whisky
   - Campari
-  - gin
-  - sweet vermouth
+  - dry vermouth
 mixers:
-  - 
+  -
 ---
 
 
 ## Ingredients
 
-- 30 ml gin
+- 30 ml rye whisky
 - 30 ml Campari
-- 30 ml sweet vermouth
-- 1/2 slice orange
+- 30 ml dry vermouth
 
 ## Instructions
 

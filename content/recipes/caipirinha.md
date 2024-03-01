@@ -1,9 +1,14 @@
 ---
 title: "Caipirinha"
 created: 2021-10-07
-alcohol: ["cachaça"]
-mixers: ["lime juice", "sugar syrup"]
+modified:
+alcohol:
+  - cachaça
+mixers:
+  - lime juice
+  - sugar syrup
 ---
+
 
 ## Ingredients
 

@@ -1,9 +1,15 @@
 ---
 title: "Martinez"
 created: 2021-07-18
-alcohol: ["gin", "sweet vermouth", "Maraschino liqueur", "bitters"]
+modified:
+alcohol:
+  - gin
+  - sweet vermouth
+  - Maraschino liqueur
+  - bitters
 mixers:
 ---
+
 
 ## Ingredients
 

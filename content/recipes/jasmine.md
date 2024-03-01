@@ -1,9 +1,15 @@
 ---
 title: "Jasmine"
 created: 2021-07-18
-alcohol: ["gin", "triple sec", "Campari"]
-mixers: ["lemon juice"]
+modified:
+alcohol:
+  - gin
+  - triple sec
+  - Campari
+mixers:
+  - lemon juice
 ---
+
 
 ## Ingredients
 

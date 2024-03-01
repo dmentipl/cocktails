@@ -1,9 +1,14 @@
 ---
 title: "Sidecar"
 created: 2021-07-18
-alcohol: ["brandy", "triple sec"]
-mixers: ["lemon juice"]
+modified:
+alcohol:
+  - brandy
+  - triple sec
+mixers:
+  - lemon juice
 ---
+
 
 ## Ingredients
 

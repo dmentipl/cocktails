@@ -1,9 +1,15 @@
 ---
 title: "Sazerac"
 created: 2021-07-18
-alcohol: ["rye whisky", "bitters", "absinthe"]
-mixers: ["sugar syrup"]
+modified:
+alcohol:
+  - rye whisky
+  - bitters
+  - absinthe
+mixers:
+  - sugar syrup
 ---
+
 
 ## Ingredients
 

@@ -1,9 +1,14 @@
 ---
 title: "Spritz Veneziano"
 created: 2021-10-08
-alcohol: ["prosecco", "Aperol"]
-mixers: ["soda water"]
+modified:
+alcohol:
+  - prosecco
+  - Aperol
+mixers:
+  - soda water
 ---
+
 
 ## Ingredients
 

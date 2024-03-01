@@ -1,9 +1,16 @@
 ---
 title: "Hemingway special"
 created: 2021-10-08
-alcohol: ["rum", "Maraschino liqueur"]
-mixers: ["grapefruit juice", "lime juice", "sugar syrup"]
+modified:
+alcohol:
+  - rum
+  - Maraschino liqueur
+mixers:
+  - grapefruit juice
+  - lime juice
+  - sugar syrup
 ---
+
 
 ## Ingredients
 

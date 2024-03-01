@@ -1,9 +1,16 @@
 ---
 title: "Whiskey sour"
 created: 2021-07-18
-alcohol: ["bourbon", "bitters"]
-mixers: ["lemon juice", "sugar syrup", "egg white"]
+modified:
+alcohol:
+  - bourbon
+  - bitters
+mixers:
+  - lemon juice
+  - sugar syrup
+  - egg white
 ---
+
 
 ## Ingredients
 

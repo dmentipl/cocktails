@@ -1,9 +1,14 @@
 ---
 title: "Daiquiri"
 created: 2021-07-18
-alcohol: ["rum"]
-mixers: ["lime juice", "sugar syrup"]
+modified:
+alcohol:
+  - rum
+mixers:
+  - lime juice
+  - sugar syrup
 ---
+
 
 ## Ingredients
 

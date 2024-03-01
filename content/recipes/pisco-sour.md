@@ -1,9 +1,16 @@
 ---
 title: "Pisco sour"
 created: 2021-10-08
-alcohol: ["pisco"]
-mixers: ["lime juice", "sugar syrup", "egg white", "bitters"]
+modified:
+alcohol:
+  - pisco
+mixers:
+  - lime juice
+  - sugar syrup
+  - egg white
+  - bitters
 ---
+
 
 ## Ingredients
 

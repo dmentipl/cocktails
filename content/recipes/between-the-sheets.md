@@ -1,9 +1,15 @@
 ---
 title: "Between the sheets"
 created: 2021-07-18
-alcohol: ["brandy", "rum", "triple sec"]
-mixers: ["lemon juice"]
+modified:
+alcohol:
+  - brandy
+  - rum
+  - triple sec
+mixers:
+  - lemon juice
 ---
+
 
 ## Ingredients
 

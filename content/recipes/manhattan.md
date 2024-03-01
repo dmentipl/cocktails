@@ -1,9 +1,15 @@
 ---
 title: "Manhattan"
 created: 2021-07-07
-alcohol: ["rye whisky", "bourbon", "sweet vermouth", "bitters"]
+modified:
+alcohol:
+  - rye whisky
+  - bourbon
+  - sweet vermouth
+  - bitters
 mixers:
 ---
+
 
 ## Ingredients
 

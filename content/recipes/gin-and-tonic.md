@@ -1,9 +1,13 @@
 ---
 title: "Gin and tonic"
 created: 2021-07-18
-alcohol: ["gin"]
-mixers: ["tonic water"]
+modified:
+alcohol:
+  - gin
+mixers:
+  - tonic water
 ---
+
 
 ## Ingredients
 

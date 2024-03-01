@@ -1,9 +1,13 @@
 ---
 title: "Scotch and soda"
 created: 2021-07-07
-alcohol: ["Scotch"]
-mixers: ["soda water"]
+modified:
+alcohol:
+  - Scotch
+mixers:
+  - soda water
 ---
+
 
 ## Ingredients
 

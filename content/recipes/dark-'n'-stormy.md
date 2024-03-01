@@ -1,9 +1,13 @@
 ---
 title: "Dark 'n' stormy"
 created: 2021-07-18
-alcohol: ["rum"]
-mixers: ["ginger beer"]
+modified:
+alcohol:
+  - rum
+mixers:
+  - ginger beer
 ---
+
 
 ## Ingredients
 

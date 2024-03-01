@@ -1,9 +1,15 @@
 ---
 title: "Cosmopolitan"
 created: 2021-07-18
-alcohol: ["vodka", "triple sec"]
-mixers: ["lime juice", "cranberry juice"]
+modified:
+alcohol:
+  - vodka
+  - triple sec
+mixers:
+  - lime juice
+  - cranberry juice
 ---
+
 
 ## Ingredients
 

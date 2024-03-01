@@ -1,9 +1,16 @@
 ---
 title: "Mojito"
 created: 2021-07-18
-alcohol: ["rum"]
-mixers: ["lime juice", "sugar syrup", "mint", "soda water"]
+modified:
+alcohol:
+  - rum
+mixers:
+  - lime juice
+  - sugar syrup
+  - mint
+  - soda water
 ---
+
 
 ## Ingredients
 

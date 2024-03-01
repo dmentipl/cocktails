@@ -1,9 +1,15 @@
 ---
 title: "Southside"
 created: 2021-10-08
-alcohol: ["gin"]
-mixers: ["lime juice", "sugar syrup", "mint"]
+modified:
+alcohol:
+  - gin
+mixers:
+  - lime juice
+  - sugar syrup
+  - mint
 ---
+
 
 ## Ingredients
 

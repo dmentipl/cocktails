@@ -1,9 +1,14 @@
 ---
 title: "Cube libre"
 created: 2021-07-18
-alcohol: ["rum"]
-mixers: ["cola", "lime juice"]
+modified:
+alcohol:
+  - rum
+mixers:
+  - cola
+  - lime juice
 ---
+
 
 ## Ingredients
 

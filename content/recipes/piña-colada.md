@@ -1,9 +1,14 @@
 ---
 title: "Piña colada"
 created: 2021-10-08
-alcohol: ["rum"]
-mixers: ["coconut milk", "pineapple juice"]
+modified:
+alcohol:
+  - rum
+mixers:
+  - coconut milk
+  - pineapple juice
 ---
+
 
 ## Ingredients
 

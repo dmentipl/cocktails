@@ -1,9 +1,14 @@
 ---
 title: "Americano"
 created: 2021-07-18
-alcohol: ["Campari", "sweet vermouth"]
-mixers: ["soda water"]
+modified:
+alcohol:
+  - Campari
+  - sweet vermouth
+mixers:
+  - soda water
 ---
+
 
 ## Ingredients
 

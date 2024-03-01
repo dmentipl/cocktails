@@ -1,9 +1,16 @@
 ---
 title: "Scofflaw"
 created: 2022-01-29
-alcohol: ["rye whisky", "dry vermouth", "bitters"]
-mixers: ["grenadine", "lemon juice"]
+modified:
+alcohol:
+  - rye whisky
+  - dry vermouth
+  - bitters
+mixers:
+  - grenadine
+  - lemon juice
 ---
+
 
 ## Ingredients
 

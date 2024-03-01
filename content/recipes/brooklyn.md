@@ -1,9 +1,15 @@
 ---
 title: "Brooklyn"
 created: 2021-10-07
-alcohol: ["rye whisky", "dry vermouth", "amaro", "Maraschino liqueur"]
+modified:
+alcohol:
+  - rye whisky
+  - dry vermouth
+  - amaro
+  - Maraschino liqueur
 mixers:
 ---
+
 
 ## Ingredients
 

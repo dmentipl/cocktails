@@ -2,6 +2,8 @@
 <content>
   {{ if .Data.Singular }}
   <h3 style="margin-bottom:0">Cocktails with "{{ .Title }}"</h3>
+  {{ else }}
+  <h3 style="margin-bottom:0">Recipes</h3>
   {{ end }}
   <ul class="blog-posts">
     {{ range .Pages }}

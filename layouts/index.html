@@ -1,22 +1,56 @@
 {{ define "main" }}
+
+<!--
+  This Hugo templating snippet is from:
+  https://dongheenam.info/posts/grouping-a-list-by-first-letter-in-hugo/
+  which is licensed as https://creativecommons.org/licenses/by-nc/4.0/
+-->
+{{- $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" -}}
+{{- $pages := (site.GetPage "recipes").Pages.ByTitle -}}
+{{- $pages_by_letters := dict -}}
+{{ range $pages }}
+{{- $page := . -}}
+{{- $first_letter := upper ( substr $page.Name 0 1 ) -}}
+{{- if not (in $letters $first_letter) }}
+{{ $first_letter = "#" }}
+{{ end }}
+{{- $new_list := slice -}}
+{{ with index $pages_by_letters $first_letter }}
+{{- $new_list = . | append $page -}}
+{{ else }}
+{{- $new_list = slice $page -}}
+{{ end }}
+{{- $pages_by_letters = merge $pages_by_letters (dict $first_letter $new_list) -}}
+{{ end }}
+
 <content>
-  {{ if .Data.Singular }}
-  {{else}}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+  <h3>Explore by ingredient</h3>
   <div>
-    <b>Explore by alcohol:</b>
     {{ range .Site.Taxonomies.alcohol }}
     <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
     {{ end }}
   </div>
   <br>
   <div>
-    <b>Explore by mixer:</b>
     {{ range .Site.Taxonomies.mixers }}
     <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
     {{ end }}
   </div>
-  {{ end }}
+  <h3>Explore by recipe</h3>
+  <div>
+    <ul class="blog-posts">
+      {{ range $key, $items := $pages_by_letters }}
+      <div class="key">{{ $key }}</div>
+      {{- range $items -}}
+      <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </li>
+      {{- end -}}
+      <br>
+      {{ end }}
+    </ul>
+  </div>
 </content>
 {{ end }}

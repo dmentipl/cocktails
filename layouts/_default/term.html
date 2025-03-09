@@ -2,6 +2,7 @@
 <content>
   {{ if .Data.Singular }}
   <h3 style="margin-bottom:0">Cocktails with "{{ .Title }}"</h3>
+  <small><a href="{{ .Data.Singular | absURL }}">See more {{ .Section }}...</a></small>
   {{ else }}
   <h3 style="margin-bottom:0">Recipes</h3>
   {{ end }}
@@ -12,7 +13,7 @@
     </li>
     {{ else }}
     <li>
-      No posts yet
+      No cocktails
     </li>
     {{ end }}
   </ul>

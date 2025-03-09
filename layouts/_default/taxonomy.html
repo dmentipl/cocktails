@@ -1,5 +1,7 @@
 {{ define "main" }}
-  <h3>{{ .Title }}</h3>
+<content>
+  <h3 style="margin-bottom:0">{{ .Title }}</h3>
+  <small><a href="{{ "recipes" | absURL }}">See all recipes...</a></small>
   {{ .Content }}
   <ul class="blog-posts">
     {{ range .Pages }}
@@ -8,8 +10,9 @@
     </li>
     {{ else }}
     <li>
-      No posts yet
+      No cocktails
     </li>
     {{ end }}
   </ul>
+</content>
 {{ end }}

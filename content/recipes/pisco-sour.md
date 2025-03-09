@@ -4,11 +4,11 @@ created: 2021-10-08
 modified:
 alcohol:
   - pisco
+  - bitters
 mixers:
   - lime juice
   - sugar syrup
   - egg white
-  - bitters
 ---
 
 ## Ingredients

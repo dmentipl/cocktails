@@ -28,16 +28,19 @@
   {{ .Content }}
   <h3>Explore by ingredient</h3>
   <div>
+    <small><b>alcohol</b></small>
     {{ range .Site.Taxonomies.alcohol }}
     <a href="{{ .Page.Permalink }}">#{{ lower .Page.Title }}</a>&nbsp;
     {{ end }}
   </div>
   <br>
   <div>
+    <small><b>mixers</b></small>
     {{ range .Site.Taxonomies.mixers }}
     <a href="{{ .Page.Permalink }}">#{{ lower .Page.Title }}</a>&nbsp;
     {{ end }}
   </div>
+  <br>
   <h3>Explore by recipe</h3>
   <div class="taxonomy">
     {{ range $key, $items := $pages_by_letters }}

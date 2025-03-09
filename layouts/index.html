@@ -29,28 +29,33 @@
   <h3>Explore by ingredient</h3>
   <div>
     {{ range .Site.Taxonomies.alcohol }}
-    <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
+    <a href="{{ .Page.Permalink }}">#{{ lower .Page.Title }}</a>&nbsp;
     {{ end }}
   </div>
   <br>
   <div>
     {{ range .Site.Taxonomies.mixers }}
-    <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
+    <a href="{{ .Page.Permalink }}">#{{ lower .Page.Title }}</a>&nbsp;
     {{ end }}
   </div>
   <h3>Explore by recipe</h3>
-  <div>
-    <ul class="blog-posts">
-      {{ range $key, $items := $pages_by_letters }}
-      <div class="key">{{ $key }}</div>
-      {{- range $items -}}
+  <div class="taxonomy">
+    {{ range $key, $items := $pages_by_letters }}
+    <div class="key">{{ $key }}</div>
+    <ul>
+      {{ range $items }}
       <li>
         <a href="{{ .Permalink }}">{{ .Title }}</a>
       </li>
-      {{- end -}}
-      <br>
       {{ end }}
+      <br>
     </ul>
+    {{ end }}
   </div>
+  <h3>Notes</h3>
+  <p>
+    These recipes use rich sugar syrup which is 2:1 sugar-to-water by volume, as
+    opposed to simple syrup which is 1:1.
+  </p>
 </content>
 {{ end }}

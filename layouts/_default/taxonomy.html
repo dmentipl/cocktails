@@ -1,8 +1,6 @@
 {{ define "main" }}
-<content>
-  {{ if .Data.Singular }}
-  <h3 style="margin-bottom:0">Cocktails with "{{ .Title }}"</h3>
-  {{ end }}
+  <h3>{{ .Title }}</h3>
+  {{ .Content }}
   <ul class="blog-posts">
     {{ range .Pages }}
     <li>
@@ -14,5 +12,4 @@
     </li>
     {{ end }}
   </ul>
-</content>
 {{ end }}

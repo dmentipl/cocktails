@@ -18,4 +18,4 @@ Here is a list of bartenders and cocktail guides:
 - [PUNCH](https://punchdrink.com/)
 - [TheCocktailDB](https://www.thecocktaildb.com/)
 
-This site is made using the static site generator [Hugo](https://gohugo.io/) with a modified version of the [Hugo ʕ•ᴥ•ʔ Bear](https://github.com/janraasch/hugo-bearblog/) theme. The content for this site is licensed as [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/). The [code for this site](https://github.com/dmentipl/recipes/) is [MIT](https://opensource.org/licenses/MIT) licensed except as noted.
+This site is made using the static site generator [Hugo](https://gohugo.io/) with a modified version of the [Hugo ʕ•ᴥ•ʔ Bear](https://github.com/janraasch/hugo-bearblog/) theme. The content for this site is licensed as [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/). The [code for this site](https://github.com/dmentipl/cocktails/) is [MIT](https://opensource.org/licenses/MIT) licensed except as noted.

@@ -10,7 +10,6 @@ mixers:
   -
 ---
 
-
 ## Ingredients
 
 - 30 ml rye whisky

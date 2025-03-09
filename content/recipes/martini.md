@@ -9,7 +9,6 @@ alcohol:
 mixers:
 ---
 
-
 ## Ingredients
 
 - 60 ml gin

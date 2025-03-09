@@ -10,7 +10,6 @@ mixers:
   - mint
 ---
 
-
 ## Ingredients
 
 - 60 ml gin

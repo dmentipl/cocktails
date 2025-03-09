@@ -10,7 +10,6 @@ mixers:
   - lemon juice
 ---
 
-
 ## Ingredients
 
 - 45 ml gin

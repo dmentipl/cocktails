@@ -11,7 +11,6 @@ mixers:
   - soda water
 ---
 
-
 *Note: There are two recipes, a "simple" one and a "complex" one.*
 
 ## Ingredients (simple)

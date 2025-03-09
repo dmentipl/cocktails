@@ -10,7 +10,6 @@ mixers:
   - lemon juice
 ---
 
-
 ## Ingredients
 
 - 20ml bourbon

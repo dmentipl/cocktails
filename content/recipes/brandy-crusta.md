@@ -11,7 +11,6 @@ mixers:
   - lemon juice
 ---
 
-
 ## Ingredients
 
 - 60 ml brandy

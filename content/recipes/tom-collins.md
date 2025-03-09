@@ -10,7 +10,6 @@ mixers:
   - soda water
 ---
 
-
 ## Ingredients
 
 - 60 ml gin

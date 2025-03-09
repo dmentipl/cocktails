@@ -9,7 +9,6 @@ mixers:
   - sugar syrup
 ---
 
-
 ## Ingredients
 
 - 60 ml cachaça

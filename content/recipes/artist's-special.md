@@ -10,7 +10,6 @@ mixers:
   - grenadine
 ---
 
-
 ## Ingredients
 
 - 30 ml Scotch

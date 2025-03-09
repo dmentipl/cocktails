@@ -10,7 +10,6 @@ mixers:
   - sugar syrup
 ---
 
-
 ## Ingredients
 
 - 60 ml rye whisky or bourbon

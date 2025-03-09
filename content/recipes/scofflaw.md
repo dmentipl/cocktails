@@ -11,7 +11,6 @@ mixers:
   - lemon juice
 ---
 
-
 ## Ingredients
 
 - 50 ml rye whisky

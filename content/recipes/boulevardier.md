@@ -10,7 +10,6 @@ alcohol:
 mixers:
 ---
 
-
 ## Ingredients
 
 - 45 ml bourbon or rye whisky

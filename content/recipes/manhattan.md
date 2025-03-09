@@ -10,7 +10,6 @@ alcohol:
 mixers:
 ---
 
-
 ## Ingredients
 
 - 60 ml rye whisky or bourbon

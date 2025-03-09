@@ -11,7 +11,6 @@ mixers:
   - bitters
 ---
 
-
 ## Ingredients
 
 - 45 ml pisco

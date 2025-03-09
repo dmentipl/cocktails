@@ -8,7 +8,6 @@ mixers:
   - ginger beer
 ---
 
-
 ## Ingredients
 
 - 60 ml rum

@@ -9,7 +9,6 @@ mixers:
   - soda water
 ---
 
-
 ## Ingredients
 
 - 60 ml prosecco

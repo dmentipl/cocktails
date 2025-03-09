@@ -9,7 +9,6 @@ alcohol:
   - Bénédictine
   - bitters
 ---
-
 ## Ingredients
 
 - 22.5 ml rye whiskey

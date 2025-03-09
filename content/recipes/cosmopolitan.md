@@ -10,7 +10,6 @@ mixers:
   - cranberry juice
 ---
 
-
 ## Ingredients
 
 - 60 ml vodka (citron)

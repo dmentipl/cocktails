@@ -9,7 +9,6 @@ mixers:
   - lime juice
 ---
 
-
 ## Ingredients
 
 - 60 ml tequila

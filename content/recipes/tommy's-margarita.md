@@ -9,7 +9,6 @@ mixers:
   - agave syrup
 ---
 
-
 ## Ingredients
 
 - 60 ml tequila

@@ -9,7 +9,6 @@ mixers:
   - pineapple juice
 ---
 
-
 ## Ingredients
 
 - 30 ml rum

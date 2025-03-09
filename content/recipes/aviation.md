@@ -10,7 +10,6 @@ mixers:
   - sugar syrup
 ---
 
-
 ## Ingredients
 
 - 50 ml gin

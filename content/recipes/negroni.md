@@ -7,9 +7,8 @@ alcohol:
   - gin
   - sweet vermouth
 mixers:
-  - 
+  -
 ---
-
 
 ## Ingredients
 

@@ -10,7 +10,6 @@ mixers:
   - orange juice
 ---
 
-
 ## Ingredients
 
 - 20 ml Scotch

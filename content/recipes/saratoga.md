@@ -11,7 +11,6 @@ alcohol:
 mixers:
 ---
 
-
 ## Ingredients
 
 - 30 ml brandy

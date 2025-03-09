@@ -11,7 +11,6 @@ mixers:
   - egg white
 ---
 
-
 ## Ingredients
 
 - 60 ml bourbon

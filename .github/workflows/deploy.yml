@@ -6,15 +6,16 @@ on:
       - main
 jobs:
   deploy-website:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.91.2'
+          hugo-version: '0.152.0'
+          extended: true
       - name: Build the site
         run: |
           hugo --minify

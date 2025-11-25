@@ -15,7 +15,7 @@ style: stirred
 
 - 50 ml rye whisky
 - 20 ml dry vermouth
-- 7.5 ml amaro
+- 10 ml amaro
 - 5 ml Maraschino liqueur
 - _(garnish)_ orange twist
 

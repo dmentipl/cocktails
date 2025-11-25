@@ -24,5 +24,4 @@ _Note: you can make the drink fancy by substituting the grapefruit soda for grap
 
 ## Instructions
 
-1. Mix together in a highball glass over ice.
-2. Garnish with lime wedge.
+Mix together in a highball glass over ice. Garnish.

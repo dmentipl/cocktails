@@ -17,11 +17,8 @@ style: built
 - 30 ml lemon juice
 - 15 ml sugar syrup
 - soda water
-- _(garnish)_ lemon slice
+- _(garnish)_ lemon or lime slice
 
 ## Instructions
 
-1. Add ingredients except soda to highball glass and stir to combine.
-2. Add soda water to halfway up glass.
-3. Fill glass with ice.
-4. Garnish with lemon slice.
+Add ingredients except soda to highball glass and stir to combine. Add soda water to halfway up glass. Fill glass with ice. Garnish.

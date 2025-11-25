@@ -20,5 +20,4 @@ style: built
 
 ## Instructions
 
-1. Build in wine glass over ice.
-2. Garnish with orange slice and olive.
+Build in wine glass over ice. Garnish.

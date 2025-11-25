@@ -23,6 +23,4 @@ style: shaken
 
 ## Instructions
 
-1. Shake with ice.
-2. Serve in a cocktail glass
-3. Garnish with lime slice.
+Shake ingredients with ice. Serve in a cocktail glass. Garnish.

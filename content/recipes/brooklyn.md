@@ -21,6 +21,4 @@ style: stirred
 
 ## Instructions
 
-1. Stir ingredients.
-2. Serve up.
-3. Garnish with orange twist.
+Stir ingredients over ice. Serve in a cocktail glass. Garnish.

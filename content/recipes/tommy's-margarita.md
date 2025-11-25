@@ -19,6 +19,4 @@ style: shaken
 
 ## Instructions
 
-1. Shake ingredients.
-2. Serve in a rocks glass over ice.
-3. Garnish with a lime slice.
+Shake ingredients with ice. Serve in a rocks glass over ice. Garnish.

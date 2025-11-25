@@ -15,12 +15,8 @@ style: stirred
 - 60 ml gin
 - 30 ml dry vermouth
 - 2 dashes orange bitters
-- _(garnish)_ lemon twist
-- _(garnish)_ olives
+- _(garnish)_ lemon twist or olives
 
 ## Instructions
 
-1. Make sure the drink and glass are *cold*.
-2. Stir ingredients.
-3. Serve in a cocktail glass.
-4. Garnish with a lemon twist or olives.
+Make sure the drink and glass are _cold_. Stir ingredients over ice. Serve in a cocktail glass. Garnish.

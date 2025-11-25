@@ -18,5 +18,4 @@ style: built
 
 ## Instructions
 
-1. Muddle quartered lime and syrup in a rocks glass.
-2. Add ice and cachaça and stir.
+Muddle quartered lime and syrup in a rocks glass. Add ice and cachaça and stir.

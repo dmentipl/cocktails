@@ -21,7 +21,4 @@ style: stirred
 
 ## Instructions
 
-1. (Optional) rinse glass with absinthe.
-2. Stirred.
-3. Serve in a rocks glass without ice.
-4. Garnish with a lemon twist.
+Rinse glass with absinthe. Stir ingredients over ice. Serve in a rocks glass without ice. Garnish.

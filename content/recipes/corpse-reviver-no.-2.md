@@ -18,12 +18,9 @@ style: shaken
 - 20 ml triple sec
 - 20 ml Lillet Blanc
 - 20 ml lemon juice
-- 4 dashes absinthe
+- 4 dashes absinthe (optional)
 - _(garnish)_ cocktail cherry
 
 ## Instructions
 
-1. (Optional) rinse glass with absinthe.
-2. Shake ingredients.
-3. Serve in a cocktail glass.
-4. Garnish with a cocktail cherry.
+Rinse glass with absinthe. Shake ingredients with ice. Serve in a cocktail glass. Garnish.

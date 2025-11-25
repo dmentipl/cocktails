@@ -21,6 +21,4 @@ style: stirred
 
 ## Instructions
 
-1. Stir ingredients.
-2. Serve in a rocks glass over ice.
-3. Garnish with a orange twist and cocktail cherry.
+Stir ingredients over ice. Serve in a rocks glass over ice. Garnish.

@@ -20,6 +20,4 @@ style: stirred
 
 ## Instructions
 
-1. Stir ingredients.
-2. Serve in cocktail glass.
-3. Garnish with orange slice.
+Stir ingredients over ice. Serve in cocktail glass. Garnish.

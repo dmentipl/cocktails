@@ -23,8 +23,4 @@ style: built
 
 ## Instructions
 
-1. Crush ice in clean tea towel.
-2. Lightly clap mint.
-3. Add ingredients except soda to highball glass.
-4. Add crushed ice and stir briefly, and top with soda water.
-5. Garnish with a mint sprig.
+Crush ice in clean tea towel. Lightly clap mint. Add ingredients except soda to highball glass. Add crushed ice and stir briefly, and top with soda water. Garnish.

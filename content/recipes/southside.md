@@ -21,7 +21,4 @@ style: shaken
 
 ## Instructions
 
-1. Shaken (without mint).
-2. Rolled (with mint).
-3. Serve in a cocktail glass.
-4. Garnish with mint leaf.
+Shake ingredients with ice. Serve in a cocktail glass. Garnish.

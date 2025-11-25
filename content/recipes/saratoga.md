@@ -22,6 +22,4 @@ style: stirred
 
 ## Instructions
 
-1. Stir ingredients.
-2. Serve in a cocktail glass.
-3. Garnish with a twist.
+Stir ingredients over ice. Serve in a cocktail glass. Garnish.

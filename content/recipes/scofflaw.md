@@ -23,6 +23,4 @@ style: shaken
 
 ## Instructions
 
-1. Shake ingredients.
-2. Serve in cocktail glass.
-3. Garnish with lemon twist.
+Shake ingredients with ice. Serve in cocktail glass. Garnish.

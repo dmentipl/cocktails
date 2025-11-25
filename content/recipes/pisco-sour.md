@@ -18,12 +18,9 @@ style: shaken
 - 30 ml lime juice
 - 15 ml sugar syrup
 - 1/2 egg white
-- aromatic bitters
+- _(garnish)_ aromatic bitters
 - _(garnish)_ lime slice
 
 ## Instructions
 
-1. Dry shake ingredients.
-2. Then shake with ice.
-3. Serve in a rocks glass without ice.
-4. Garnish with drops of bitters and a lime slice.
+Dry shake ingredients. Then shake with ice. Serve in a rocks glass without ice. Garnish with drops of bitters and a lime slice.

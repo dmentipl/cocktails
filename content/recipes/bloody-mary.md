@@ -24,5 +24,4 @@ style: built
 
 ## Instructions
 
-1. Build in highball glass over ice.
-2. Garnish with celery and lemon.
+Build in highball glass over ice. Garnish.

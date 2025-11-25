@@ -17,5 +17,4 @@ style: built
 
 ## Instructions
 
-1. Build in highball glass over ice.
-2. Garnish with lime or lemon wedge.
+Build in highball glass over ice. Garnish.

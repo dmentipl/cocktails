@@ -20,5 +20,4 @@ style: built
 
 ## Instructions
 
-1. Build in cocktail glass over ice.
-2. Garnish with pineapple and cocktail cherry.
+Build in cocktail glass over ice. Garnish.

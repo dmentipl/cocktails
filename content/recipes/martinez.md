@@ -21,6 +21,4 @@ style: stirred
 
 ## Instructions
 
-1. Stirred over ice.
-2. Serve in a cocktail glass.
-3. Garnish with lemon twist.
+Stir ingredients over ice. Serve in a cocktail glass. Garnish.

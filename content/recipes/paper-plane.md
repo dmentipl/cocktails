@@ -17,10 +17,8 @@ style: shaken
 - 20ml Aperol
 - 20ml Amaro Nonino or Montenegro
 - 20ml lemon juice
-- _(garnish)_ lemon twist
+- _(garnish)_ lemon twist or miniature paper plane
 
 ## Instructions
 
-1. Shake ingredients.
-2. Serve in a cocktail glass.
-3. Garnish with lemon twist (or miniature paper plane).
+Shake ingredients with ice. Serve in a cocktail glass. Garnish.

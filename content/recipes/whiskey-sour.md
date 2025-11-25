@@ -24,7 +24,4 @@ style: shaken
 
 ## Instructions
 
-1. Dry shake ingredients.
-2. Then shake with ice and double strain.
-3. Serve in a rocks glass over fresh ice.
-4. Garnish with orange twist and cocktail cherry.
+Dry shake ingredients. Then shake with ice. Serve in a rocks glass over ice. Garnish.

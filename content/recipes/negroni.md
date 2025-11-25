@@ -20,6 +20,4 @@ style: stirred
 
 ## Instructions
 
-1. Stir ingredients.
-2. Serve in rocks glass over ice.
-3. Garnish with orange slice.
+Stir ingredients over ice. Serve in rocks glass over ice. Garnish.

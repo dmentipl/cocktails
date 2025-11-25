@@ -20,6 +20,4 @@ style: shaken
 
 ## Instructions
 
-1. Shake ingredients including lime zest.
-2. Serve in a cocktail glass.
-3. Garnish with a lime slice.
+Shake ingredients with ice. Serve in a cocktail glass. Garnish.

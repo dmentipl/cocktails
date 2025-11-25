@@ -17,14 +17,11 @@ style: shaken
 - 60 ml brandy
 - 15 ml triple sec
 - 15 ml lemon juice
-- 10 ml Maraschino liqueur
+- 10 ml Maraschino liqueur (optional)
 - 4 dashes aromatic bitters
 - _(garnish)_ sugar
 - _(garnish)_ lemon twist
 
 ## Instructions
 
-1. Sugar rim a cocktail glass.
-2. Shake ingredients (Maraschino optional).
-3. Serve in cocktail glass.
-4. Garnish with long lemon twist lining the inside of the glass.
+Sugar rim a cocktail glass. Shake ingredients with ice. Serve in cocktail glass. Garnish with long lemon twist lining the inside of the glass.

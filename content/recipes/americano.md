@@ -19,5 +19,4 @@ style: built
 
 ## Instructions
 
-1. Build in rocks glass over ice.
-2. Garnish with orange slice.
+Build in rocks glass over ice. Garnish.

@@ -3,6 +3,18 @@
 <content>
   {{ .Content }}
 
+  <h2>Recipes by style</h2>
+
+  {{ range $key, $taxonomy := .Site.Taxonomies.style }}
+  <div>
+    <small><b>{{ $key }}</b></small>
+    {{ range $taxonomy.Pages }}
+    <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> •
+    {{ end }}
+  </div>
+  <br>
+  {{ end }}
+
   <h2>Explore by ingredient</h2>
 
   <div>
@@ -20,17 +32,6 @@
     {{ end }}
   </div>
   <br>
-
-  <h2>Recipes by style</h2>
-  {{ range $key, $taxonomy := .Site.Taxonomies.style }}
-  <div>
-    <small><b>{{ $key }}</b></small>
-    {{ range $taxonomy.Pages }}
-    <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> •
-    {{ end }}
-  </div>
-  <br>
-  {{ end }}
 
 </content>
 {{ end }}

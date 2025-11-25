@@ -1,3 +1,3 @@
 +++
-title = "Need a drink?"
+title = "Index"
 +++

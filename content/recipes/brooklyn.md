@@ -8,7 +8,7 @@ alcohol:
   - amaro
   - Maraschino liqueur
 mixers:
-style: shaken
+style: stirred
 ---
 
 ## Ingredients

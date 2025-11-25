@@ -3,7 +3,7 @@
   <h3 style="margin-bottom:0">{{ .Title }}</h3>
   <small><a href="{{ "recipes" | absURL }}">See all recipes...</a></small>
   {{ .Content }}
-  <ul class="blog-posts">
+  <ul>
     {{ range .Pages }}
     <li>
       <a href="{{ .Permalink }}">{{ .Title }}</a>

@@ -2,7 +2,7 @@
 <content>
   <h3 style="margin-bottom:0">Cocktails with "{{ .Title }}"</h3>
   <small><a href="{{ .Data.Singular | absURL }}">See more {{ .Section }}...</a></small>
-  <ul class="blog-posts">
+  <ul>
     {{ range .Pages }}
     <li>
       <a href="{{ .Permalink }}">{{ .Title }}</a>

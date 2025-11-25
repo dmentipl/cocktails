@@ -10,11 +10,12 @@ alcohol:
   - bitters
 style: stirred
 ---
+
 ## Ingredients
 
-- 22.5 ml rye whiskey
-- 22.5 ml brandy
-- 22.5 ml sweet vermouth
+- 20 ml rye whiskey
+- 20 ml brandy
+- 20 ml sweet vermouth
 - 10 ml Bénédictine liqueur
 - 2 dashes creole bitters
 - 2 dashes aromatic bitters

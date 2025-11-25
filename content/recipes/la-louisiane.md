@@ -13,8 +13,8 @@ style: stirred
 ## Ingredients
 
 - 60 ml rye whiskey
-- 22.5 ml sweet vermouth
-- 22.5 ml Bénédictine liqueur
+- 20 ml sweet vermouth
+- 20 ml Bénédictine liqueur
 - 3 dashes absinthe
 - 3 dashes creole bitters
 - _(garnish)_ cocktail cherry

@@ -9,6 +9,7 @@ alcohol:
   - bitters
 mixers:
   - lemon juice
+style: shaken
 ---
 
 ## Ingredients

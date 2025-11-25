@@ -8,6 +8,7 @@ alcohol:
   - Campari
 mixers:
   - lemon juice
+style: shaken
 ---
 
 ## Ingredients

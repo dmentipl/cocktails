@@ -9,6 +9,7 @@ mixers:
   - grapefruit juice
   - lime juice
   - sugar syrup
+style: shaken
 ---
 
 ## Ingredients

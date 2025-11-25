@@ -7,6 +7,7 @@ alcohol:
 mixers:
   - coconut milk
   - pineapple juice
+style: built
 ---
 
 ## Ingredients

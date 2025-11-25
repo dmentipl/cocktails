@@ -8,6 +8,7 @@ alcohol:
   - Campari
   - sweet vermouth
 mixers:
+style: stirred
 ---
 
 ## Ingredients

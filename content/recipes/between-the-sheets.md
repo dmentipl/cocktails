@@ -8,6 +8,7 @@ alcohol:
   - triple sec
 mixers:
   - lemon juice
+style: shaken
 ---
 
 ## Ingredients

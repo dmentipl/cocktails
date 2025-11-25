@@ -8,6 +8,7 @@ alcohol:
   - amaro
 mixers:
   - lemon juice
+style: shaken
 ---
 
 ## Ingredients

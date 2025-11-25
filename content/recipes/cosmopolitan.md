@@ -8,6 +8,7 @@ alcohol:
 mixers:
   - lime juice
   - cranberry juice
+style: shaken
 ---
 
 ## Ingredients

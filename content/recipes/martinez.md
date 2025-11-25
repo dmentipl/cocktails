@@ -8,6 +8,7 @@ alcohol:
   - Maraschino liqueur
   - bitters
 mixers:
+style: stirred
 ---
 
 ## Ingredients

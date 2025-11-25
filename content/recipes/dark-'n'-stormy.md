@@ -6,6 +6,7 @@ alcohol:
   - rum
 mixers:
   - ginger beer
+style: built
 ---
 
 ## Ingredients

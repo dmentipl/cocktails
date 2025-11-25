@@ -8,6 +8,7 @@ alcohol:
   - cherry liqueur
 mixers:
   - orange juice
+style: shaken
 ---
 
 ## Ingredients

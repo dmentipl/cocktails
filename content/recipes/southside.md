@@ -8,6 +8,7 @@ mixers:
   - lime juice
   - sugar syrup
   - mint
+style: shaken
 ---
 
 ## Ingredients

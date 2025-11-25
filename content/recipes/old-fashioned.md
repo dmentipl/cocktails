@@ -8,6 +8,7 @@ alcohol:
   - bitters
 mixers:
   - sugar syrup
+style: stirred
 ---
 
 ## Ingredients

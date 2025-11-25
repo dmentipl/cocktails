@@ -7,6 +7,7 @@ alcohol:
 mixers:
   - lime juice
   - sugar syrup
+style: built
 ---
 
 ## Ingredients

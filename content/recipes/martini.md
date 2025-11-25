@@ -7,6 +7,7 @@ alcohol:
   - dry vermouth
   - bitters
 mixers:
+style: stirred
 ---
 
 ## Ingredients

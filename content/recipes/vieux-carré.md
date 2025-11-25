@@ -8,6 +8,7 @@ alcohol:
   - sweet vermouth
   - Bénédictine
   - bitters
+style: stirred
 ---
 ## Ingredients
 

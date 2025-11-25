@@ -7,6 +7,7 @@ alcohol:
   - sweet vermouth
 mixers:
   - soda water
+style: built
 ---
 
 ## Ingredients

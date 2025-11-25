@@ -9,6 +9,7 @@ alcohol:
   - absinthe
 mixers:
   - lemon juice
+style: shaken
 ---
 
 ## Ingredients

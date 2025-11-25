@@ -8,6 +8,7 @@ alcohol:
 mixers:
   - lemon juice
   - sugar syrup
+style: shaken
 ---
 
 ## Ingredients

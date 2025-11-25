@@ -7,6 +7,7 @@ alcohol:
   - Aperol
 mixers:
   - soda water
+style: built
 ---
 
 ## Ingredients

@@ -1,64 +1,36 @@
 {{ define "main" }}
 
-<!--
-  This Hugo templating snippet is from:
-  https://dongheenam.info/posts/grouping-a-list-by-first-letter-in-hugo/
-  which is licensed as https://creativecommons.org/licenses/by-nc/4.0/
--->
-{{- $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" -}}
-{{- $pages := (site.GetPage "recipes").Pages.ByTitle -}}
-{{- $pages_by_letters := dict -}}
-{{ range $pages }}
-{{- $page := . -}}
-{{- $first_letter := upper ( substr $page.Name 0 1 ) -}}
-{{- if not (in $letters $first_letter) }}
-{{ $first_letter = "#" }}
-{{ end }}
-{{- $new_list := slice -}}
-{{ with index $pages_by_letters $first_letter }}
-{{- $new_list = . | append $page -}}
-{{ else }}
-{{- $new_list = slice $page -}}
-{{ end }}
-{{- $pages_by_letters = merge $pages_by_letters (dict $first_letter $new_list) -}}
-{{ end }}
-
 <content>
-  <h1>{{ .Title }}</h1>
   {{ .Content }}
-  <h3>Explore by ingredient</h3>
+
+  <h2>Explore by ingredient</h2>
+
   <div>
     <small><b>alcohol</b></small>
     {{ range .Site.Taxonomies.alcohol }}
-    <a href="{{ .Page.Permalink }}">#{{ lower .Page.Title }}</a>&nbsp;
+    <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> •
     {{ end }}
   </div>
   <br>
+
   <div>
     <small><b>mixers</b></small>
     {{ range .Site.Taxonomies.mixers }}
-    <a href="{{ .Page.Permalink }}">#{{ lower .Page.Title }}</a>&nbsp;
+    <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> •
     {{ end }}
   </div>
   <br>
-  <h3>Explore by recipe</h3>
-  <div class="taxonomy">
-    {{ range $key, $items := $pages_by_letters }}
-    <div class="key">{{ $key }}</div>
-    <ul>
-      {{ range $items }}
-      <li>
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
-      </li>
-      {{ end }}
-      <br>
-    </ul>
+
+  <h2>Recipes by style</h2>
+  {{ range $key, $taxonomy := .Site.Taxonomies.style }}
+  <div>
+    <small><b>{{ $key }}</b></small>
+    {{ range $taxonomy.Pages }}
+    <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> •
     {{ end }}
   </div>
-  <h3>Notes</h3>
-  <p>
-    These recipes use rich sugar syrup which is 2:1 sugar-to-water by volume, as
-    opposed to simple syrup which is 1:1.
-  </p>
+  <br>
+  {{ end }}
+
 </content>
 {{ end }}

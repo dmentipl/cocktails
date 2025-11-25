@@ -7,6 +7,7 @@ alcohol:
 mixers:
   - tomato juice
   - lemon juice
+style: built
 ---
 
 ## Ingredients

@@ -9,6 +9,7 @@ mixers:
   - sugar syrup
   - mint
   - soda water
+style: built
 ---
 
 ## Ingredients

@@ -8,6 +8,7 @@ mixers:
   - lemon juice
   - sugar syrup
   - soda water
+style: built
 ---
 
 ## Ingredients

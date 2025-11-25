@@ -8,6 +8,7 @@ alcohol:
   - absinthe
 mixers:
   - sugar syrup
+style: stirred
 ---
 
 ## Ingredients

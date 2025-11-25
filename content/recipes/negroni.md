@@ -8,6 +8,7 @@ alcohol:
   - sweet vermouth
 mixers:
   -
+style: stirred
 ---
 
 ## Ingredients

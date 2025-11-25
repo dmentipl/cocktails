@@ -7,6 +7,7 @@ alcohol:
 mixers:
   - cola
   - lime juice
+style: built
 ---
 
 ## Ingredients

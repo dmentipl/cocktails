@@ -6,6 +6,7 @@ alcohol:
   - Scotch
 mixers:
   - soda water
+style: built
 ---
 
 ## Ingredients

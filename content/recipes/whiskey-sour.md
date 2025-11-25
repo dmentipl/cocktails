@@ -9,6 +9,7 @@ mixers:
   - lemon juice
   - sugar syrup
   - egg white
+style: shaken
 ---
 
 ## Ingredients

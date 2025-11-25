@@ -6,6 +6,7 @@ alcohol:
   - gin
 mixers:
   - tonic water
+style: built
 ---
 
 ## Ingredients

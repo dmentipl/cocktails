@@ -7,6 +7,7 @@ alcohol:
 mixers:
   - lime juice
   - agave syrup
+style: shaken
 ---
 
 ## Ingredients

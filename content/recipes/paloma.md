@@ -9,6 +9,7 @@ mixers:
   - lime juice
   - agave syrup
   - soda water
+style: built
 ---
 
 *Note: There are two recipes, a "simple" one and a "complex" one.*

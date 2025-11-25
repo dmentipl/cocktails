@@ -9,6 +9,7 @@ alcohol:
 mixers:
   - grenadine
   - lemon juice
+style: shaken
 ---
 
 ## Ingredients

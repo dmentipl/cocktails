@@ -15,7 +15,7 @@ style: built
 - 60 ml rum
 - 90 ml cola
 - 5 ml lime juice
-- lime wedge
+- _(garnish)_ lime wedge
 
 ## Instructions
 

@@ -17,7 +17,7 @@ style: shaken
 - 30 ml triple sec
 - 20 ml Campari
 - 15 ml lemon juice
-- lemon twist
+- _(garnish)_ lemon twist
 
 ## Instructions
 

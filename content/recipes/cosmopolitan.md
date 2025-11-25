@@ -17,7 +17,7 @@ style: shaken
 - 30 ml triple sec
 - 30 ml lime juice
 - 15 ml cranberry juice
-- lemon twist
+- _(garnish)_ lemon twist
 
 ## Instructions
 

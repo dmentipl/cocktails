@@ -19,11 +19,11 @@ style: shaken
 - 20 ml Lillet Blanc
 - 20 ml lemon juice
 - 4 dashes absinthe
-- cherry
+- _(garnish)_ cocktail cherry
 
 ## Instructions
 
 1. (Optional) rinse glass with absinthe.
 2. Shake ingredients.
 3. Serve in a cocktail glass.
-4. Garnish with a cherry.
+4. Garnish with a cocktail cherry.

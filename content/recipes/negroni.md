@@ -16,7 +16,7 @@ style: stirred
 - 30 ml gin
 - 30 ml Campari
 - 30 ml sweet vermouth
-- 1/2 slice orange
+- _(garnish)_ slice orange
 
 ## Instructions
 

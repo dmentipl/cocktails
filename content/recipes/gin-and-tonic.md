@@ -13,7 +13,7 @@ style: built
 
 - 60 ml gin
 - 90 ml tonic water
-- lime or lemon wedge
+- _(garnish)_ lime or lemon wedge
 
 ## Instructions
 

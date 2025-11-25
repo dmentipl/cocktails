@@ -16,6 +16,7 @@ style: stirred
 - 30 ml rye whisky
 - 30 ml Campari
 - 30 ml dry vermouth
+- _(garnish)_ orange slice
 
 ## Instructions
 

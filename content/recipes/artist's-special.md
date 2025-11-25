@@ -17,7 +17,7 @@ style: shaken
 - 30 ml Oloroso sherry
 - 15 ml lemon juice
 - 15 ml grenadine or redcurrant or raspberry syrup
-- lemon twist
+- _(garnish)_ lemon twist
 
 ## Instructions
 

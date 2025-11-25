@@ -15,7 +15,7 @@ style: shaken
 - 45 ml gin
 - 30 ml triple sec
 - 20 ml lemon juice
-- lemon twist
+- _(garnish)_ lemon twist
 
 ## Instructions
 

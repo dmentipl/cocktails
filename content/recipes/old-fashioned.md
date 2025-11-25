@@ -16,7 +16,7 @@ style: stirred
 - 60 ml rye whisky or bourbon
 - 5 ml sugar syrup
 - 4 dashes aromatic bitters
-- orange or lemon twist
+- _(garnish)_ orange or lemon twist
 
 ## Instructions
 

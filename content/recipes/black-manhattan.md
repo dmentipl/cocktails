@@ -17,10 +17,10 @@ style: stirred
 - 30 ml amaro
 - 2 dashes aromatic bitters
 - 2 dashes orange bitters
-- cherry
+- _(garnish)_ cocktail cherry
 
 ## Instructions
 
 1. Stir ingredients.
 2. Serve in a cocktail glass.
-3. Garnish with a cherry.
+3. Garnish with a cocktail cherry.

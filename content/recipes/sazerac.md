@@ -17,7 +17,7 @@ style: stirred
 - 5 ml sugar syrup
 - 4 dashes creole bitters
 - 4 dashes absinthe
-- lemon twist
+- _(garnish)_ lemon twist
 
 ## Instructions
 

@@ -16,10 +16,10 @@ style: stirred
 - 60 ml rye whisky or bourbon
 - 20 ml sweet vermouth
 - 4 dashes aromatic bitters
-- cherry
+- _(garnish)_ cocktail cherry
 
 ## Instructions
 
 1. Stir ingredients.
 2. Serve in a cocktail glass.
-3. Garnish with a cherry.
+3. Garnish with a cocktail cherry.

@@ -19,7 +19,7 @@ style: shaken
 - 15 ml sugar syrup
 - 1/2 egg white
 - aromatic bitters
-- lime slice
+- _(garnish)_ lime slice
 
 ## Instructions
 

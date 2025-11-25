@@ -15,7 +15,7 @@ style: stirred
 - 45 ml gin
 - 45 ml sweet vermouth
 - 2 dashes Fernet Branca
-- orange twist
+- _(garnish)_ orange twist
 
 ## Instructions
 

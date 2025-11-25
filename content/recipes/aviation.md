@@ -18,10 +18,10 @@ style: shaken
 - 10 ml Maraschino liqueur
 - 5 ml sugar syrup
 - 5ml crème de violette
-- cherry
+- _(garnish)_ cocktail cherry
 
 ## Instructions
 
 1. Shake ingredients (crème de violette optional).
 2. Serve in cocktail glass.
-3. Garnish with cherry.
+3. Garnish with cocktail cherry.

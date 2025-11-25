@@ -17,10 +17,10 @@ style: stirred
 - 22.5 ml Bénédictine liqueur
 - 3 dashes absinthe
 - 3 dashes creole bitters
-- cherry
+- _(garnish)_ cocktail cherry
 
 ## Instructions
 
 1. Stirred.
 2. Serve in a cocktail glass.
-3. Garnish with a cherry.
+3. Garnish with a cocktail cherry.

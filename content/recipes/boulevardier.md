@@ -16,7 +16,7 @@ style: stirred
 - 45 ml bourbon or rye whisky
 - 15 ml Campari
 - 15 ml sweet vermouth
-- orange twist
+- _(garnish)_ orange twist
 
 ## Instructions
 

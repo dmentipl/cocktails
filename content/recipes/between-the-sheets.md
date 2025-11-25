@@ -17,7 +17,7 @@ style: shaken
 - 30 ml rum
 - 30 ml triple sec
 - 20 ml lemon juice
-- orange twist
+- _(garnish)_ orange twist
 
 ## Instructions
 

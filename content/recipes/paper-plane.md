@@ -17,7 +17,7 @@ style: shaken
 - 20ml Aperol
 - 20ml Amaro Nonino or Montenegro
 - 20ml lemon juice
-- lemon twist
+- _(garnish)_ lemon twist
 
 ## Instructions
 

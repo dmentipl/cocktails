@@ -17,11 +17,11 @@ style: shaken
 - 20 ml blood orange juice
 - 20 ml sweet vermouth
 - 20 ml cherry liqueur
-- orange zest
-- cherry
+- _(garnish)_ orange zest
+- _(garnish)_ cocktail cherry
 
 ## Instructions
 
 1. Shake ingredients.
 2. Serve in a cocktail glass.
-3. Garnish with a flamed orange zest and cherry.
+3. Garnish with a flamed orange zest and cocktail cherry.

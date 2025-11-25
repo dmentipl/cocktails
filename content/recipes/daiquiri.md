@@ -16,7 +16,7 @@ style: shaken
 - 20 ml lime juice
 - 10 ml sugar syrup
 - lime zest
-- lime slice
+- _(garnish)_ lime slice
 
 ## Instructions
 

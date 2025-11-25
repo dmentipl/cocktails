@@ -15,8 +15,8 @@ style: built
 - 60 ml prosecco
 - 45 ml Aperol
 - 20 ml soda water
-- orange slice
-- olive
+- _(garnish)_ orange slice
+- _(garnish)_ olive
 
 ## Instructions
 

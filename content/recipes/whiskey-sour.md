@@ -19,12 +19,12 @@ style: shaken
 - 15 ml sugar syrup
 - 4 dashes orange bitters
 - 1/2 egg white (optional)
-- cherry
-- orange twist
+- _(garnish)_ cocktail cherry
+- _(garnish)_ orange twist
 
 ## Instructions
 
 1. Dry shake ingredients.
 2. Then shake with ice and double strain.
 3. Serve in a rocks glass over fresh ice.
-4. Garnish with orange twist and cherry.
+4. Garnish with orange twist and cocktail cherry.

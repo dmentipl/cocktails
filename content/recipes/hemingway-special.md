@@ -19,7 +19,7 @@ style: shaken
 - 15 ml lime juice
 - 15 ml Maraschino liqueur
 - 5 ml sugar syrup
-- lime slice
+- _(garnish)_ lime slice
 
 ## Instructions
 

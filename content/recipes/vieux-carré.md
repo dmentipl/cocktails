@@ -17,8 +17,8 @@ style: stirred
 - 22.5 ml sweet vermouth
 - 10 ml Bénédictine liqueur
 - 2 dashes creole bitters
-- 2 dash aromatic bitters
-- lemon twist
+- 2 dashes aromatic bitters
+- _(garnish)_ lemon twist
 
 ## Instructions
 

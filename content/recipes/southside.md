@@ -17,7 +17,7 @@ style: shaken
 - 30 ml lime juice
 - 15 ml sugar syrup
 - 1 mint sprig
-- 1 mint leaf
+- _(garnish)_ 1 mint leaf
 
 ## Instructions
 

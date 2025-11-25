@@ -17,7 +17,7 @@ style: stirred
 - 45 ml sweet vermouth
 - 5 ml Maraschino liqueur
 - 4 dashes aromatic bitters
-- lemon twist
+- _(garnish)_ lemon twist
 
 ## Instructions
 

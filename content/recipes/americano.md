@@ -15,7 +15,7 @@ style: built
 - 45 ml Campari
 - 45 ml sweet vermouth
 - 45 ml soda water
-- 1/2 orange slice
+- _(garnish)_ orange slice
 
 ## Instructions
 

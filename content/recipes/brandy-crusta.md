@@ -19,8 +19,8 @@ style: shaken
 - 15 ml lemon juice
 - 10 ml Maraschino liqueur
 - 4 dashes aromatic bitters
-- sugar
-- lemon twist
+- _(garnish)_ sugar
+- _(garnish)_ lemon twist
 
 ## Instructions
 

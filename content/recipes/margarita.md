@@ -15,7 +15,7 @@ style: shaken
 - 60 ml tequila
 - 30 ml lime juice
 - 15 ml triple sec
-- lime slice
+- _(garnish)_ lime slice
 
 ## Instructions
 

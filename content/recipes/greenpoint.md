@@ -5,7 +5,7 @@ modified:
 alcohol:
   - rye whisky
   - bourbon
-  - yellow Chartreuse
+  - Chartreuse
   - sweet vermouth
   - bitters
 mixers:
@@ -18,7 +18,7 @@ style: stirred
 - 30 ml yellow Chartreuse
 - 30 ml sweet vermouth
 - 2 dashes aromatic bitters
-- orange twist
+- _(garnish)_ orange twist
 
 ## Instructions
 

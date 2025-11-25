@@ -13,7 +13,7 @@ style: built
 
 - 60 ml rum
 - 90 ml ginger beer
-- lime wedge
+- _(garnish)_ lime wedge
 
 ## Instructions
 

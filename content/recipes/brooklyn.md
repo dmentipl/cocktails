@@ -17,7 +17,7 @@ style: stirred
 - 20 ml dry vermouth
 - 7.5 ml amaro
 - 5 ml Maraschino liqueur
-- orange twist
+- _(garnish)_ orange twist
 
 ## Instructions
 

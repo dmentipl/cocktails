@@ -19,7 +19,7 @@ style: built
 - 20 ml sugar syrup
 - a few mint leaves
 - soda water
-- mint sprig
+- _(garnish)_ mint sprig
 
 ## Instructions
 

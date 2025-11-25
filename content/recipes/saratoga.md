@@ -18,7 +18,7 @@ style: stirred
 - 30 ml rye whisky or bourbon
 - 30 ml sweet vermouth
 - 2 dashes aromatic bitters
-- orange twist
+- _(garnish)_ orange twist
 
 ## Instructions
 

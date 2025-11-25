@@ -19,8 +19,8 @@ style: built
 - 2 dashes hot sauce
 - pinch celery salt
 - pinch pepper
-- celery stalk
-- lemon wedge
+- _(garnish)_ celery stalk
+- _(garnish)_ lemon wedge
 
 ## Instructions
 

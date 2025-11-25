@@ -19,7 +19,7 @@ style: shaken
 - 10 ml grenadine
 - 4 dashes orange bitters
 - 15 ml lemon juice
-- lemon twist
+- _(garnish)_ lemon twist
 
 ## Instructions
 

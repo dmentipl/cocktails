@@ -17,7 +17,7 @@ style: built
 - 30 ml lemon juice
 - 15 ml sugar syrup
 - soda water
-- lemon slice
+- _(garnish)_ lemon slice
 
 ## Instructions
 

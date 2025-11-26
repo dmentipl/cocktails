@@ -12,7 +12,7 @@ mixers:
 style: built
 ---
 
-_Note: you can make the drink fancy by substituting the grapefruit soda for grapefruit juice, agave syrup, and soda water._
+You can make the drink fancy by substituting the grapefruit soda for a combination of grapefruit juice, agave syrup, and soda water.
 
 ## Ingredients
 

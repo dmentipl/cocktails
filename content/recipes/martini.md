@@ -10,6 +10,8 @@ mixers:
 style: stirred
 ---
 
+This is a "traditional" Martini with a greater amount of vermouth than is common today. Decrease the vermouth as you see fit. Make sure the drink and glass are _cold_.
+
 ## Ingredients
 
 - 60 ml gin
@@ -19,4 +21,4 @@ style: stirred
 
 ## Instructions
 
-Make sure the drink and glass are _cold_. Stir ingredients over ice. Serve in a cocktail glass. Garnish.
+Stir ingredients over ice. Serve in a cocktail glass. Garnish.

@@ -2,7 +2,7 @@
 <h1>{{ .Title }}</h1>
 <p>
   {{ range (sort (union (.GetTerms "alcohol") (.GetTerms "mixers")) ".LinkTitle") }}
-  <a href="{{ .Permalink }}">#{{ lower .LinkTitle }}</a>
+  <a href="{{ .Permalink }}">#{{ lower .LinkTitle | anchorize }}</a>
   {{ end }}
 </p>
 <content>

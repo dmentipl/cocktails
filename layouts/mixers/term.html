@@ -1,7 +1,7 @@
 {{ define "main" }}
 <content>
   <h3 style="margin-bottom:0">Cocktails with "{{ .Title }}"</h3>
-  <small><a href="{{ .Data.Singular | absURL }}">See more {{ .Section }}...</a></small>
+  <small><a href="{{ .Data.Singular | absURL }}">See all {{ .Section }}</a></small>
   <ul>
     {{ range .Pages }}
     <li>

@@ -14,7 +14,7 @@ style: shaken
 
 - 60 ml brandy
 - 30 ml triple sec
-- 15 ml lemon juice
+- 20 ml lemon juice
 - _(garnish)_ orange twist
 
 ## Instructions

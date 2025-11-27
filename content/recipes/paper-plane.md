@@ -11,11 +11,13 @@ mixers:
 style: shaken
 ---
 
+Amaro Nonino is expensive so feel free to substitute for a similar (or different) amaro.
+
 ## Ingredients
 
 - 20ml bourbon
 - 20ml Aperol
-- 20ml Amaro Nonino or Montenegro
+- 20ml Amaro Nonino
 - 20ml lemon juice
 - _(garnish)_ lemon twist or miniature paper plane
 

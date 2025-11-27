@@ -10,6 +10,7 @@ alcohol:
   - bitters
 style: stirred
 ---
+
 ## Ingredients
 
 - 60 ml rye whiskey

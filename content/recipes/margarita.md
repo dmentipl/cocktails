@@ -13,8 +13,8 @@ style: shaken
 ## Ingredients
 
 - 60 ml tequila
-- 30 ml lime juice
-- 15 ml triple sec
+- 30 ml triple sec
+- 20 ml lime juice
 - _(garnish)_ lime slice
 
 ## Instructions
